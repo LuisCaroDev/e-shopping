@@ -7,7 +7,7 @@
       "strict": true,
       "esModuleInterop": true
     },
-    "include": ["src/**/*"],
+    "include": ["src/**/*", "app.ts"],
     "exclude": ["node_modules"]
   }
   
